@@ -1,2 +1,3 @@
 this is a text file for test git!
 FYI.
+add 1 new line
