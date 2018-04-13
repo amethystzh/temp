@@ -2,3 +2,4 @@ this is a text file for test git!
 FYI.
 add 1 new line
 add from github
+add from jd.desktop.dell.optiplex3020
